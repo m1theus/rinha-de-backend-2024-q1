@@ -1,0 +1,295 @@
+Report start - 2024-02-23 00:41:57 GMT
+Response Time Ranges
+  t < 800 ms: 106 requests - 0%
+  800 ms <= t < 1200 ms: 9 requests - 0%
+  t >= 1200 ms: 78 requests - 0%
+  failed: 61310 requests - 100%
+Stats
+All Requests
+  total: 61503
+  OK: 193
+  Nok: 61310
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 48
+  p99: 14205
+  Max: 60016
+validações
+  total: 123
+  OK: 65
+  Nok: 58
+  Min: 8
+  p50: 889
+  p75: 2336
+  p95: 11579
+  p99: 11763
+  Max: 19145
+débitos
+  total: 39660
+  OK: 81
+  Nok: 39579
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 47
+  p99: 13938
+  Max: 60016
+créditos
+  total: 19860
+  OK: 47
+  Nok: 19813
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 37
+  p99: 14196
+  Max: 60009
+extratos
+  total: 1860
+  OK: 0
+  Nok: 1860
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 49
+  p99: 16721
+  Max: 60005
+Report End - 2024-02-23 00:41:57 GMT
+ 
+Report start - 2024-02-23 03:40:29 GMT
+Response Time Ranges
+  t < 800 ms: 90 requests - 0%
+  800 ms <= t < 1200 ms: 8 requests - 0%
+  t >= 1200 ms: 104 requests - 0%
+  failed: 61301 requests - 100%
+Stats
+All Requests
+  total: 61503
+  OK: 202
+  Nok: 61301
+  Min: 0
+  p50: 2
+  p75: 3
+  p95: 29
+  p99: 6045
+  Max: 60011
+validações
+  total: 123
+  OK: 87
+  Nok: 36
+  Min: 3
+  p50: 1516
+  p75: 4042
+  p95: 8938
+  p99: 18776
+  Max: 19161
+débitos
+  total: 39660
+  OK: 66
+  Nok: 39594
+  Min: 0
+  p50: 2
+  p75: 3
+  p95: 29
+  p99: 4675
+  Max: 60011
+créditos
+  total: 19860
+  OK: 38
+  Nok: 19822
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 19
+  p99: 4654
+  Max: 60007
+extratos
+  total: 1860
+  OK: 11
+  Nok: 1849
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 32
+  p99: 12070
+  Max: 60003
+Report End - 2024-02-23 03:40:29 GMT
+ 
+Report start - 2024-02-23 15:02:22 GMT
+Response Time Ranges
+  t < 800 ms: 56 requests - 0%
+  800 ms <= t < 1200 ms: 5 requests - 0%
+  t >= 1200 ms: 26 requests - 0%
+  failed: 61416 requests - 100%
+Stats
+All Requests
+  total: 61503
+  OK: 87
+  Nok: 61416
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 27
+  p99: 250
+  Max: 38930
+validações
+  total: 123
+  OK: 65
+  Nok: 58
+  Min: 13
+  p50: 602
+  p75: 12689
+  p95: 15293
+  p99: 15294
+  Max: 15295
+débitos
+  total: 39660
+  OK: 0
+  Nok: 39660
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 28
+  p99: 123
+  Max: 38930
+créditos
+  total: 19860
+  OK: 0
+  Nok: 19860
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 21
+  p99: 116
+  Max: 38825
+extratos
+  total: 1860
+  OK: 22
+  Nok: 1838
+  Min: 0
+  p50: 3
+  p75: 6
+  p95: 36
+  p99: 438
+  Max: 38703
+Report End - 2024-02-23 15:02:22 GMT
+ 
+Report start - 2024-02-23 17:02:41 GMT
+Response Time Ranges
+  t < 800 ms: 21 requests - 0%
+  800 ms <= t < 1200 ms: 4 requests - 0%
+  t >= 1200 ms: 25 requests - 0%
+  failed: 61449 requests - 100%
+Stats
+All Requests
+  total: 61499
+  OK: 50
+  Nok: 61449
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 22
+  p99: 167
+  Max: 39022
+validações
+  total: 119
+  OK: 49
+  Nok: 70
+  Min: 1
+  p50: 1245
+  p75: 13191
+  p95: 19398
+  p99: 19401
+  Max: 19401
+débitos
+  total: 39660
+  OK: 0
+  Nok: 39660
+  Min: 0
+  p50: 2
+  p75: 4
+  p95: 23
+  p99: 102
+  Max: 39022
+créditos
+  total: 19860
+  OK: 0
+  Nok: 19860
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 19
+  p99: 112
+  Max: 3110
+extratos
+  total: 1860
+  OK: 1
+  Nok: 1859
+  Min: 0
+  p50: 2
+  p75: 7
+  p95: 19
+  p99: 135
+  Max: 3066
+Report End - 2024-02-23 17:02:41 GMT
+ 
+Report start - 2024-02-23 17:12:06 GMT
+Response Time Ranges
+  t < 800 ms: 38 requests - 0%
+  800 ms <= t < 1200 ms: 10 requests - 0%
+  t >= 1200 ms: 31 requests - 0%
+  failed: 61424 requests - 100%
+Stats
+All Requests
+  total: 61503
+  OK: 79
+  Nok: 61424
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 25
+  p99: 89
+  Max: 38897
+validações
+  total: 123
+  OK: 61
+  Nok: 62
+  Min: 19
+  p50: 1039
+  p75: 13449
+  p95: 17129
+  p99: 17132
+  Max: 17132
+débitos
+  total: 39660
+  OK: 0
+  Nok: 39660
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 26
+  p99: 84
+  Max: 38897
+créditos
+  total: 19860
+  OK: 1
+  Nok: 19859
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 22
+  p99: 84
+  Max: 10260
+extratos
+  total: 1860
+  OK: 17
+  Nok: 1843
+  Min: 0
+  p50: 2
+  p75: 5
+  p95: 22
+  p99: 89
+  Max: 1835
+Report End - 2024-02-23 17:12:06 GMT
+ 

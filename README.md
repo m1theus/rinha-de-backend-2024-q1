@@ -384,3 +384,4 @@ Surpresa! :)
 
 [Link do status parcial da Rinha de Backend](./STATUS-TESTES.md).
  
+# rinha-2024-rust
